@@ -1,0 +1,2 @@
+# slowdns-info
+info slowdns
